@@ -3,7 +3,7 @@
 ``` What I want to do with this program was to keep track of users task. Did a user spend 10 hours on homework or not. Did not know how to impletement MySQL into it so I switch to SQLite.```
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=tZTRbMT3fDI)
 
 ##### Files to install:
 * pysqlite3
@@ -18,6 +18,7 @@
 # Development Environment
 * Python 3.9.12
 * VsCode
+* SQLite
 
 # Useful Websites
 * [YouTube](https://www.youtube.com/watch?v=IBgWKTaG_Bs)
